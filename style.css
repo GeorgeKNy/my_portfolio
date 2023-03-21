@@ -341,4 +341,11 @@ img.portfolio {
     .display-mobile {
         display: block;
     }
+    
+    div.certificates {
+        border-left: 4px solid rgb(209, 232, 32);
+        padding-left: 8px;
+        height: 165px;
+        display: inline-block;
+    }
 }
