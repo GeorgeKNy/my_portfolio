@@ -161,6 +161,13 @@ div.text-with-vertical-line p {
     margin-top: 0;
 }
 
+div.certificates {
+    border-left: 4px solid rgb(209, 232, 32);
+    padding-left: 8px;
+    height: 120px;
+    display: inline-block;
+}
+
 div.vertical-bar {
     height: 50px;
     width: 4px;
