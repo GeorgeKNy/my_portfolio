@@ -352,4 +352,8 @@ img.portfolio {
     h4.mobile {
         font-size: 11px;
     }
+    
+    h4.certificates {
+        font-size: 14px;
+    }
 }
