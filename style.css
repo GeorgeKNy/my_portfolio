@@ -348,4 +348,8 @@ img.portfolio {
         height: auto;
         display: inline-block;
     }
+    
+    h4.mobile {
+        font-size: 11px;
+    }
 }
